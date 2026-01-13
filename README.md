@@ -4,6 +4,8 @@
 
 A terminal UI for monitoring inotify file watcher usage per process on Linux.
 
+![watcher-watch screenshot](assets/watcher-watch-screenshot.png)
+
 ## Installation
 
 ### Download Binary
