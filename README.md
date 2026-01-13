@@ -1,5 +1,7 @@
 # watcher-watch
 
+[![Built with Claude](https://img.shields.io/badge/Built%20with-Claude-blue)](https://claude.ai)
+
 A terminal UI for monitoring inotify file watcher usage per process on Linux.
 
 ## Installation
