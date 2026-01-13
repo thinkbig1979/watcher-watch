@@ -4,11 +4,24 @@ A terminal UI for monitoring inotify file watcher usage per process on Linux.
 
 ## Installation
 
+### Download Binary
+
+Download the latest release from the [Releases page](https://github.com/thinkbig1979/watcher-watch/releases).
+
+```bash
+# Example for Linux amd64
+curl -LO https://github.com/thinkbig1979/watcher-watch/releases/latest/download/watcher-watch_linux_amd64.tar.gz
+tar xzf watcher-watch_linux_amd64.tar.gz
+sudo mv watcher-watch /usr/local/bin/
+```
+
+### Go Install
+
 ```bash
 go install github.com/thinkbig1979/watcher-watch@latest
 ```
 
-Or build from source:
+### Build from Source
 
 ```bash
 git clone https://github.com/thinkbig1979/watcher-watch.git
