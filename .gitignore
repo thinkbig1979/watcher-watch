@@ -1,0 +1,8 @@
+# Binary
+watcher-watch
+watchme
+
+# IDE
+.idea/
+.vscode/
+*.swp
